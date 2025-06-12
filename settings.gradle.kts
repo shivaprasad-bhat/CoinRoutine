@@ -1,4 +1,4 @@
-rootProject.name = "CMP_Crypto"
+rootProject.name = "CoinRoutine"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
